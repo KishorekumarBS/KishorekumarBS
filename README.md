@@ -108,5 +108,5 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishorekumarbs&" alt="kishorekumarbs" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KishorekumarBS"/></a>
 </p>
