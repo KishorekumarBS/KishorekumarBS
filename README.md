@@ -108,5 +108,5 @@
 
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KishorekumarBS"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sigma-dun.vercel.app?user=KishorekumarBS&theme=gotham&card_width=503" alt="GitHub Streak" /></a>
 </p>
