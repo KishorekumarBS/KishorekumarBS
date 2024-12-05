@@ -61,50 +61,6 @@
 </div>
 
 
-## 💼 Experience
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>👨‍🏫 Instructor - Cybersecurity Certificate Beginner Program & Teaching Associate</h3>
-        <p>California State University, Fresno, CA | Jan 2024 - Present</p>
-        <p>Educated 50+ students on cybersecurity principles, enhancing their knowledge by 25%.</p>
-        <p>Mentored students on programming techniques including iteration and recursion, enhancing problem-solving skills.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus" alt="C++">
-          <img src="https://img.shields.io/badge/Language-Haskell-5D4F85?style=for-the-badge&logo=haskell" alt="Haskell">
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <h3>👨‍💻 Software Engineer I Intern</h3>
-        <p>Cognizant Technology Solutions, Chennai, Tamil Nadu | Feb 2022 - Jul 2022</p>
-        <p>Built a full-stack web application with Django, MongoDB, and Python, increasing user satisfaction by 25%.</p>
-        <p>Developed CI/CD pipelines with Jenkins, automating deployments and improving code quality by 20%.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Python">
-          <img src="https://img.shields.io/badge/Framework-Django-green?style=for-the-badge&logo=django" alt="Django">
-          <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" alt="MongoDB">
-          <img src="https://img.shields.io/badge/CI%2FCD-Jenkins-red?style=for-the-badge&logo=jenkins" alt="Jenkins">
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <h3>🔧 Junior Software DevOps</h3>
-        <p>Ruchi Soya Industries Ltd, Tiruvallur, India | Aug 2021 - Dec 2021</p>
-        <p>Created and deployed a cloud-based project using Docker, AWS, and Python, increasing efficiency by 15%.</p>
-        <p>Implemented containerization and orchestration, cutting infrastructure costs by 20%.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker">
-          <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws" alt="AWS">
-          <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Python">
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 <p align="center">
