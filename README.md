@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **hksankaran@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/14m7aDHDuJ6kCm0zLPkPSpoPNRSZQZeaQ/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
